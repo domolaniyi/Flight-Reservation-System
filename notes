@@ -1,0 +1,45 @@
+
+            ______
+            _\ _~-\___
+    =  = ==(____AA____D
+                \_____\___________________,-~~~~~~~`-.._
+                /     o O o o o o O O o o o o o o O o  |\_
+                `~-.__        ___..----..                  )
+                      `---~~\___________/------------`````
+                      =  ===(_________D
+
+
+- Hello, this is a flight reservation system which has many key features and I will add some more in the future
+- Key features:
+    - Add airline - Admin Feature
+    - Add Flight - Admin Feature
+    - Remove Flight - Admin Feature
+    - Book a ticket
+    - Cancel a ticket
+    - Look up available flights
+    - Register to the system and have your flights saved
+    - Auto generation of a seat with each ticket
+    - Auto generation of a flight number also with the airlines acronym attached
+
+- Planned Features:
+    - Each flight has a specific amount of seats
+    - Seat generation is also dependent on the aircraft type and not just a generic number i've put
+    - Faster searching algorithims for looking through data
+    - Local database to store information such as flights, airlines, customers, admin accounts, tickets booked.
+
+
+- Hopefully this small little application is of use to someone in the future and can aid them in their path to creating their own
+  system like this one or even a better one which may include a GUI or some sort of websites to go alongside it. However, I believe
+  that focusing on the internals is the most important thing before you start to get all arts and crafty. Other than that, I have tested
+  everything and it should all be working fine however if there any issues then I challenge you to fix them and improve on them. Lastly, with
+  the planned features I aim to add. If I do not do it then that can also be a challenge for you also :)
+
+
+              ______
+              _\ _~-\___
+      =  = ==(____AA____D
+                  \_____\___________________,-~~~~~~~`-.._
+                  /     o O o o o o O O o o o o o o O o  |\_
+                  `~-.__        ___..----..                  )
+                        `---~~\___________/------------`````
+                        =  ===(_________D
